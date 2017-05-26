@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "The Limitations of Refactoring"
-date:   2017-05-17 12:00:00
+date:   2017-05-25 17:00:00
 tags: [refactoring, http-server]
 ---
 
-The Limitations of Refactoring
 I recently started reading Martin Fowler’s book, “Refactoring”.  Early on, he acknowledges that the concept of refactoring is new and not a lot is known about its limitations.  Even though the book was originally published in 1999, I’m not sure that today we have much more to say about the limitations of refactoring.  It’s all still very speculative and anecdotal as far as I know.
 
 Lately I have been writing an HTTP server in Java.  When I started, I had a pretty good idea of the features and high level interface I wanted to have, but I had no idea how I was going to implement most of it.  So, my HTTP server implementation ended up being a pretty typical example of evolutionary design.  I did a lot of refactoring along the way, so I thought it might be an interesting case study for this concept of the limitations of refactoring.
