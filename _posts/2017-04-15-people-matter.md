@@ -2,7 +2,7 @@
 layout: post
 title:  "People Matter"
 date:   2017-04-15 13:00:00
-categories: XP
+tags: [XP]
 ---
 
 Not long ago, I went to an Agile Open conference.  It was a great experience, but I noticed something that seemed odd to me at the time.  It had a really touchy-feely vibe to it.  There were moments where I wouldn’t have been surprised if everyone joined hands and started singing kumbaya.  I’m a very down-to-business kind of guy, so all that emotional stuff made me uncomfortable.  I’d rather be talking about software.

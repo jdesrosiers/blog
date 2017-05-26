@@ -2,7 +2,7 @@
 layout: post
 title:  "Continuous Improvement"
 date:   2017-04-25 22:00:00
-categories: XP
+tags: [XP]
 ---
 
 A while back I had the opportunity to introduce agile practices to the company I was working for at the time.  The company was in a transition period and I was determined seize the opportunity to improve the way we work.  The problem was that I no practical experience with these practices.  I knew how it was all supposed to work in theory, but I didn’t really know what I was doing.  It was the blind leading the blind.

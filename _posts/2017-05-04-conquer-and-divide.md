@@ -2,7 +2,7 @@
 layout: post
 title:  "Conquer and Divide"
 date:   2017-05-04 22:00:00
-categories: XP
+tags: [XP]
 ---
 
 One of the criticisms I heard about agile is that it doesn’t scale.  It’s nice for small teams, but once you get to a certain size, some layer of management is necessary to coordinate the masses.  I think this is mostly people trying to cling to the familiar, traditional way of doing things.  There are a few real world examples I can think of that seem to contradict that assumption.

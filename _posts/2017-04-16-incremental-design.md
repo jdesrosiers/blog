@@ -2,7 +2,7 @@
 layout: post
 title:  "Incremental Design"
 date:   2017-04-16 22:00:00
-categories: XP
+tags: [XP]
 ---
 
 Agile has revolutionized the way we think about software development.  There are many flavors such as Scrum, Kanban, and Lean.  If you look at the Scrum framework for example, it defines things like meetings and how to split and prioritize work.  This is all valuable for managing a project, but there is no guidance to help developers to be more agile in their work.  If the developers don’t know how to be agile, there is no way the project as a whole is going to be agile no matter what framework you have around it.

@@ -2,7 +2,7 @@
 layout: post
 title:  "The BDD Meme"
 date:   2017-05-17 12:00:00
-categories: TDD BDD
+tags: [TDD, BDD]
 ---
 
 When we hear the word "meme" these days, it conjures visions of some iconic image with a clever caption.  But, before memes were pictures of cats, the word "meme" had a more profound meaning.  The word "meme" was coined by Richard Dawkins in his book, "The Selfish Gene" [^1].  As defined by Richard Dawkins, a meme is a thought or idea that replicates, mutates, and evolves the way DNA does with genes.  Memes today are often compared to viruses and the way they spread, but that still doesn’t do justice to the original meaning because it doesn't address the concept of mutation and evolution.  So, in the original sense of the word, even the concept of a meme is a meme that has evolved over time.
